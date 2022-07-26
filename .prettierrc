@@ -1,4 +1,6 @@
 {
   "singleQuote": true,
-  "semi": true
+  "semi": false,
+  "bracketSpacing": false,
+  "spaceBeforeFunctionParen": true
 }
