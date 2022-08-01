@@ -12,5 +12,5 @@ export default defineComponent({
     const $q = useQuasar();
     $q.dark.set(true);
   },
-});
+})
 </script>
